@@ -1,4 +1,4 @@
-# BPC-BDS -> Bezpečnosť Databázových Systémov
+                                             BPC-BDS -> Bezpečnosť Databázových Systémov
 
                                               1. Projekt Assignment -> Database Design
 
