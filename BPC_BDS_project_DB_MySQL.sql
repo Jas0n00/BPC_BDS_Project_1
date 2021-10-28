@@ -1,6 +1,6 @@
 -- -----------------------------------------------------
 -- 	   1. Project Assignment - Database Design
---                   BPC_BDS_MySQL
+-- 				           BPC_BDS_MySQL
 -- Authors: Adam Kubiš(213431), Jakub Jarina(230086)
 -- -----------------------------------------------------
 
@@ -34,8 +34,7 @@ CREATE TABLE IF NOT EXISTS `BPC_BDS_Project`.`address` (
   `postcode` VARCHAR(45) NOT NULL,
   `city` VARCHAR(50) NOT NULL,
   `country` VARCHAR(50) NOT NULL,
-  PRIMARY KEY (`id_address`),
-  INDEX `id_address_UNIQUE` (`id_address` ASC))
+  PRIMARY KEY (`id_address`))
 ENGINE = InnoDB;
 
 -- -----------------------------------------------------
