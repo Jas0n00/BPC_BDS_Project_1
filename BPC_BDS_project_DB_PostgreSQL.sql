@@ -1,4 +1,10 @@
 -- -----------------------------------------------------
+--     1. Project Assignment - Database Design
+--                  BPC_BDS_MySQL
+-- Authors: Adam Kubiš(213431), Jakub Jarina(230086)
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
 -- Schema BPC_BDS_Project
 -- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS bpc_bds_project
