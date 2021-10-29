@@ -1,5 +1,5 @@
 -- -----------------------------------------------------
--- 	   1. Project Assignment - Database Design
+--     1. Project Assignment - Database Design
 --                  BPC_BDS_MySQL
 -- Authors: Adam Kubiš(213431), Jakub Jarina(230086)
 -- -----------------------------------------------------
