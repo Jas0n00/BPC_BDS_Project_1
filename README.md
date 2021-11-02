@@ -4,6 +4,8 @@
 
                                           Authors: Adam Kubiš(213431), Jakub Jarina(230086)
                                           
+                                     GitHub: https://github.com/AdamKubis/BDS-Project-Assigment-1
+                                          
                                           
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
@@ -14,4 +16,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         3. Screenshots -> zložka obsahujúca screenshoty z programu pgAdmin, ktoré znázorňujú, že sme PostgreSQL databázu vytvorili samostatne
         4. BPC-BDS_PROJECT -> pdf súbor, ktorý obsahuje popis databázy(Application description), popis jednotlivých tabuliek a popis toho, prečo si myslíme, že je naša databáza v 3rd Normal form. 
         5. BPC-BDS_project_ERD_V4 -> pdf súbor, ktorý znázorňuje obrázok Entity Relationship Diagramu nami vytvorenej databázy.
+        6. README -> textový súbor, ktorý obsahuje popis a link k nášmu GitHub repozitáru.
+        
 
