@@ -18,4 +18,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         5. BPC-BDS_project_ERD_V4 -> pdf súbor, ktorý znázorňuje obrázok Entity Relationship Diagramu nami vytvorenej databázy.
         6. README -> textový súbor, ktorý obsahuje popis a link k nášmu GitHub repozitáru.
         
+        
+        links to github: https://github.com/Jas0n00/BPC_BDS_Project_1.git
+                         https://github.com/AdamKubis/BDS-Project-Assigment-1.git
 
