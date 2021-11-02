@@ -96,7 +96,7 @@ INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_numbe
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Adriána', 'Tomová', 'eglaisterx@harvard.edu', '+420 116 731 713');
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Diana', 'Chodúrová', 'aliggettw@ox.ac.uk', '+420 429 563 454');
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Jozefína', 'Babejakobá', 'apatonv@instagram.com', '+421 822 398 254');
-INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Tomáš', 'Slamka', '', '+421 272 110 983');
+INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Tomáš', 'Slamka', 'tommyno@centrum.sk', '+421 272 110 983');
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Oľga', 'Valjentová', 'rrileyu@abc.net.au', '+420 227 257 701');
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Klaudia', 'Priedhorská', 'lgreallyt@npr.org', '+421 914 838 050');
 INSERT INTO `BPC_BDS_Project`.`users` (first_name, last_name, email, phone_number) VALUES ('Kristína', 'Holavá', 'blockets@cdbaby.com', '+420 759 533 220');
